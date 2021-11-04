@@ -1,7 +1,7 @@
 # Facebook responsive UI in Flutter
 
 
-| Weapons | Image | Web View | Further details | 
-| --- | --- | --- | --- | 
-| ![](https://github.com/jervygu/app-pubg101/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%20a.png) | ![](https://github.com/jervygu/app-pubg101/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%20b.png) | ![](https://github.com/jervygu/app-pubg101/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%20c.png) | ![](https://github.com/jervygu/app-pubg101/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%20d.png) |
+| Image | 
+| --- |  
+| ![](https://github.com/jervygu/ui_flutter_facebook_responsive_ui/blob/master/screenshots/Screen%20Shot%202021-11-04%20at%207.50.53%20PM.png?raw=true) |
 
